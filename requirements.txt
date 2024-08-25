@@ -1,0 +1,7 @@
+reflex>=0.3.8
+passlib
+bcrypt
+google-auth[requests]
+requests-oauthlib 
+python-dotenv
+sqlalchemy_guid
